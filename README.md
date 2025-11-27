@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Neeleswar
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning Data structures and algorithms
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Data structures and algorithms , machine learning
 - 📫 How to reach me neeleswar20036@gmail.com
-- I am currently in my final year of Btech in Electrical engineering
+- I graduated from IIT GOA in Btech Electrical engineering
 
 <!---
 rocky00323/rocky00323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
